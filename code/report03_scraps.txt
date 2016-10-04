@@ -1,0 +1,24 @@
+## Lincoln Index Problem
+
+From [John D. Cook](http://www.johndcook.com/blog/2010/07/13/lincoln-index/)
+
+"Suppose you have a tester who finds 20 bugs in your program. You want to estimate how many bugs are really in the program. You know there are at least 20 bugs, and if you have supreme confidence in your tester, you may suppose there are around 20 bugs. But maybe your tester isn't very good. Maybe there are hundreds of bugs. How can you have any idea how many bugs there are? There’s no way to know with one tester. But if you have two testers, you can get a good idea, even if you don’t know how skilled the testers are.
+
+Suppose two testers independently search for bugs. Let k1 be the number of errors the first tester finds and k2 the number of errors the second tester finds. Let c be the number of errors both testers find.  The Lincoln Index estimates the total number of errors as k1 k2 / c [I changed his notation to be consistent with mine]."
+
+So if the first tester finds 20 bugs, the second finds 15, and they find 3 in common, we estimate that there are about 100 bugs.  What is the Bayesian estimate of the number of errors based on this data?
+
+print('The mean of the distribution is: ' + str(suite.Marginal(0).Mean()))
+print('The 90% credible interval of the distribution is: ' + str(suite.Marginal(0).CredibleInterval(90)))
+
+
+
+With the introduction of the super like, we now have to redefine our class to handle having one super like per day.  This involves adding an additional return state in the event of a super like.  This extra return state takes a bit of thought: we need to account for the likelihood of matching from normal swipes and from super likes.  Using some probability rules for events that are not mutually exclusive, the resulting likelihood we want is: $P(swipe) + P(superlike) - P(swipe\ and\ superlike)$.  
+
+Next, using the general multiplication rule we can substitute $P(swipe\ and\ superlike)$ with $P(superlike) * P(swipe|superlike)$ 
+
+and we can simplify the whole likelihood function to $P(swipe) + P(superlike) * (1 - P(swipe|superlike))$.
+
+##### Note: I haven't taken any probability courses before so my knowledge of probability rules is very limited, and these rules are based off of instructional websites.  There is a good chance that I am applying these rules incorrectly, or that they should not be applied to this data in the way that I did.
+
+#         return 0 if matches > swipes else binom.pmf(matches, swipes, matchProb) + binom.pmf(1, 1, matchProb * 3) * (1 - binom.pmf(matches - 1, swipes - 1, matchProb)) if (superLike and matchProb * 3 <= 1) else binom.pmf(matches, swipes, matchProb)
