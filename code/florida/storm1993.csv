@@ -1,0 +1,256 @@
+EVENT_ID,CZ_NAME_STR,BEGIN_LOCATION,BEGIN_DATE,BEGIN_TIME,EVENT_TYPE,MAGNITUDE,TOR_F_SCALE,DEATHS_DIRECT,INJURIES_DIRECT,DAMAGE_PROPERTY_NUM,DAMAGE_CROPS_NUM,STATE_ABBR,CZ_TIMEZONE,MAGNITUDE_TYPE,EPISODE_ID,CZ_TYPE,CZ_FIPS,WFO,INJURIES_INDIRECT,DEATHS_INDIRECT,SOURCE,FLOOD_CAUSE,TOR_LENGTH,TOR_WIDTH,BEGIN_RANGE,BEGIN_AZIMUTH,END_RANGE,END_AZIMUTH,END_LOCATION,BEGIN_LAT,BEGIN_LON,END_LAT,END_LON,ABSOLUTE_ROWNUMBER
+10319842,POLK CO.,Lakeland,01/04/1993,1725,Tornado,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,.1,10,0, ,0, , ,28.03,-81.95, , ,1
+10319336,UNION CO.,Lake Butler,01/08/1993,1120,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,125, ,0,0, , ,0,0,0, ,0, , , , , , ,2
+10319337,UNION CO.,Gainesville,01/08/1993,1130,Tornado,0,F0,0,0,3,0,FL,EST, , ,C,125, ,0,0, , ,.1,10,24,N,0, , ,30.05,-82.32, , ,3
+10319982,LEVY CO.,Inglis,01/08/1993,1210,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,75, ,0,0, , ,0,0,0, ,0, , , , , , ,4
+10317649,CITRUS CO.,Dunnellon,01/08/1993,1245,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,5
+10320168,MARION CO.,W Portion,01/08/1993,1325,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, , , , , , ,6
+10320169,MARION CO.,Citra,01/08/1993,1350,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, , , , , , ,7
+10319606,HILLSBOROUGH CO., ,01/08/1993,1400,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,57, ,0,0, , ,.1,10,0, ,0, , , , , , ,8
+10319814,PUTNAM CO.,Interlachen,01/08/1993,1415,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,107, ,0,0, , ,0,0,0, ,0, , , , , , ,9
+10318112,CHARLOTTE CO.,Port Charlotte,01/08/1993,2000,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,15, ,0,0, , ,0,0,0, ,0, , , , , , ,10
+10320165,LEE CO.,Fort Myers,01/08/1993,2015,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,11
+10319744,PINELLAS CO.,Indian Rocks,01/16/1993,520,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,12
+10319745,PINELLAS CO.,N St Petersburg,01/16/1993,520,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,103, ,0,0, , ,.1,10,0, ,0, , ,27.77,-82.67, , ,13
+10319607,HILLSBOROUGH CO.,Valrico,01/16/1993,540,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,14
+10319638,HILLSBOROUGH CO.,Ruskin,01/16/1993,545,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,15
+10319746,PINELLAS CO.,St. Petersburg Beach,01/16/1993,545,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,16
+10319797,SARASOTA CO.,Sarasota,01/16/1993,600,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, , , , , , ,17
+10320043,MANATEE CO.,Palmetto,01/16/1993,600,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,18
+10319901,HILLSBOROUGH CO.,Keysville,01/16/1993,620,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,19
+10319844,POLK CO.,Winter Haven,01/16/1993,630,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,20
+10320144,HARDEE CO.,Wauchula,01/16/1993,630,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,49, ,0,0, , ,0,0,0, ,0, , , , , , ,21
+10318113,CHARLOTTE CO.,Port Charlotte,01/16/1993,704,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,15, ,0,0, , ,0,0,0, ,0, , , , , , ,22
+10317817,DE SOTO CO.,Arcadia,01/16/1993,715,Thunderstorm Wind,52, ,0,0,500,0,FL,EST, , ,C,27, ,0,0, , ,0,0,0, ,0, , , , , , ,23
+10317623,BREVARD CO.,Melbourne,01/16/1993,715,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,9, ,0,0, , ,0,0,0, ,0, , , , , , ,24
+10319595,HIGHLANDS CO.,Sebring,01/16/1993,730,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,55, ,0,0, , ,0,0,0, ,0, , , , , , ,25
+10320166,LEE CO.,Cape Coral,01/16/1993,745,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,26
+10318114,CHARLOTTE CO.,Fort Myers,01/16/1993,809,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,15, ,0,0, , ,.1,10,13,N,0, , , , , , ,27
+10317986,BROWARD CO.,NE part,01/16/1993,1127,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, ,Deerfield Beach, , , , ,28
+10319686,PALM BEACH CO., ,01/16/1993,1200,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, , , , , , ,29
+10319687,PALM BEACH CO., ,01/16/1993,1220,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, , , , , , ,30
+10320138,GULF CO.,Port St. Joe,01/24/1993,1230,Tornado,0,F1,0,2,50000,0,FL,EST, , ,C,45, ,0,0, , ,.5,50,0, ,0, , ,29.82,-85.30, , ,31
+10318063,ALACHUA CO.,Gainesville,02/07/1993,320,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,1, ,0,0, , ,0,0,0, ,0, , , , , , ,32
+10319230,SUMTER CO.,Wildwood,02/11/1993,1815,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,119, ,0,0, , ,0,0,0, ,0, , , , , , ,33
+10319902,HILLSBOROUGH CO.,Brandon,02/11/1993,1845,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,34
+10319688,PALM BEACH CO.,Wellington,02/12/1993,350,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, , , , , , ,35
+10318135,BAY CO.,Bear Creek,02/15/1993,1045,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,5, ,0,0, , ,0,0,0, ,0, , , , , , ,36
+10317818,DE SOTO CO.,Arcadia,02/22/1993,1658,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,27, ,0,0, , ,.5,30,0, ,0, , ,27.22,-81.87, , ,37
+10317819,DE SOTO CO.,Arcadia,02/22/1993,1724,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,27, ,0,0, , ,0,0,0, ,0, , , , , , ,38
+10319597,HIGHLANDS CO.,Lake Placid,02/22/1993,1745,Thunderstorm Wind,61, ,0,0,0,0,FL,EST, , ,C,55, ,0,0, , ,0,0,0, ,0, , , , , , ,39
+10317689,COLLIER CO.,Naples,02/22/1993,2010,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,21, ,0,0, , ,0,0,0, ,0, , , , , , ,40
+10319904,HILLSBOROUGH CO.,Lutz,03/03/1993,2150,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,41
+10319712,PASCO CO.,Wesley Chapel,03/03/1993,2200,Tornado,0,F1,0,0,50000,0,FL,EST, , ,C,101, ,0,0, , ,1,60,0, ,0, , , , , , ,42
+10320045,MANATEE CO.,Bradenton,03/03/1993,2208,Thunderstorm Wind,50, ,0,0,0,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,43
+10319713,PASCO CO.,Zephyrhills,03/03/1993,2235,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,101, ,0,0, , ,0,0,0, ,0, , , , , , ,44
+10319905,HILLSBOROUGH CO.,Brandon,03/03/1993,2245,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,45
+10319847,POLK CO.,N Lakeland,03/03/1993,2313,Thunderstorm Wind,0, ,0,1,500,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,46
+10319848,POLK CO.,S Lakeland,03/03/1993,2330,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,47
+10319906,HILLSBOROUGH CO., ,03/03/1993,2330,Thunderstorm Wind,56, ,0,0,0,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, ,Sundance, , , , ,48
+10319849,POLK CO.,Bartow,03/03/1993,2335,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,49
+10319342,VOLUSIA CO.,DeLeon Springs,03/04/1993,1,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,50
+10319643,ORANGE CO.,Orlando,03/04/1993,30,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, , , , , , ,51
+10317626,BREVARD CO.,Canaveral AFS,03/04/1993,300,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,9, ,0,0, , ,0,0,0, ,0, , , , , , ,52
+10319689,PALM BEACH CO.,Delray Beach,03/04/1993,300,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, , , , , , ,53
+10319644,ORANGE CO.,Taft,03/04/1993,2335,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, , , , , , ,54
+10317650,CITRUS CO.,Crystal River,03/12/1993,2338,Tornado,0,F1,0,3,5000000,0,FL,EST, , ,C,17, ,0,0, , ,.5,30,0, ,0, , , , , , ,55
+10319983,LEVY CO.,Chiefland,03/12/1993,2338,Tornado,0,F2,3,10,50000000,0,FL,EST, , ,C,75, ,0,0, , ,1,80,0, ,0, , , , , , ,56
+10317651,CITRUS CO.,Inverness,03/12/1993,2340,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,57
+10320046,MANATEE CO.,Terra Ceia Bay,03/13/1993,0,Thunderstorm Wind,0, ,1,0,0,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,58
+10319343,VOLUSIA CO.,Deland,03/13/1993,0,Thunderstorm Wind,64, ,0,0,0,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,59
+10358522,PINELLAS CO.,Treasure Island,03/13/1993,0,Tornado,0, ,0,0,50000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,60
+10319714,PASCO CO.,New Port Richey,03/13/1993,4,Tornado,0,F0,0,11,0,0,FL,EST, , ,C,101, ,0,0, , ,.1,10,0, ,0, , , , , , ,61
+10320047,MANATEE CO.,Bradenton,03/13/1993,7,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,62
+10319907,HILLSBOROUGH CO., ,03/13/1993,9,Thunderstorm Wind,83, ,0,0,0,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, ,Tampa, , , , ,63
+10319908,HILLSBOROUGH CO.,Tampa,03/13/1993,14,Thunderstorm Wind,65, ,0,0,0,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,64
+10319747,PINELLAS CO.,Tarpon Springs,03/13/1993,14,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,65
+10320190,HERNANDO CO., ,03/13/1993,15,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,53, ,0,0, , ,0,0,0, ,0, , , , , , ,66
+10320068,MANATEE CO.,Bradenton,03/13/1993,15,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,67
+10320170,MARION CO.,SW to NE Ocala,03/13/1993,20,Tornado,0,F2,0,0,50000000,0,FL,EST, , ,C,83, ,0,0, , ,15,100,0, ,0, , , , , , ,68
+10318064,ALACHUA CO.,LaCrosse,03/13/1993,20,Tornado,0,F1,1,4,5000000,0,FL,EST, , ,C,1, ,0,0, , ,.8,60,0, ,0, , , , , , ,69
+10319909,HILLSBOROUGH CO.,Tampa,03/13/1993,20,Thunderstorm Wind,0, ,0,0,5000000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,70
+10319799,SARASOTA CO.,Sarasota,03/13/1993,20,Thunderstorm Wind,51, ,0,0,0,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, , , , , , ,71
+10320171,MARION CO., ,03/13/1993,30,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, ,E Portion, , , , ,72
+10320155,LAKE CO.,Mt.  Dora,03/13/1993,30,Tornado,0,F2,1,60,5000000,0,FL,EST, , ,C,69, ,0,0, , ,30,200,0, ,0, , , , , , ,73
+10319231,SUMTER CO.,Bushnell,03/13/1993,35,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,119, ,0,0, , ,0,0,0, ,0, , , , , , ,74
+10317815,FLZ001 - 023 CO.,Countywide,03/13/1993,35,Thunderstorm Wind,0, ,0,0,5000000,0,FL,EST, , ,C,0, ,0,0, , ,0,0,0, ,0, , , , , , ,75
+10320069,MANATEE CO., ,03/13/1993,35,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,76
+10319715,PASCO CO.,Zephyrhills,03/13/1993,35,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,101, ,0,0, , ,0,0,0, ,0, , , , , , ,77
+10320196,LEE CO.,N Fort Myers,03/13/1993,36,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,78
+10319748,PINELLAS CO.,St.  Petersburg,03/13/1993,38,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,79
+10319850,POLK CO.,Alturas,03/13/1993,45,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,80
+10319800,SARASOTA CO.,Fruitville,03/13/1993,47,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, , , , , , ,81
+10317837,DUVAL CO.,Jacksonville,03/13/1993,100,Tornado,0,F1,0,0,5000000,0,FL,EST, , ,C,31, ,0,0, , ,.8,50,0, ,0, , , , , , ,82
+10319852,POLK CO.,Bartow to,03/13/1993,100,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,105, ,0,0, , ,.1,10,0, ,0, ,Lakeland, , , , ,83
+10317838,DUVAL CO.,Jacksonville,03/13/1993,110,Tornado,0,F0,0,0,500000,0,FL,EST, , ,C,31, ,0,0, , ,.1,10,0, ,0, , , , , , ,84
+10319645,ORANGE CO.,Disney World,03/13/1993,110,Thunderstorm Wind,62, ,0,0,500,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, , , , , , ,85
+10319853,POLK CO.,Auburndale,03/13/1993,113,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,86
+10317788,FLAGLER CO., ,03/13/1993,115,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,35, ,0,0, , ,0,0,0, ,0, , , , , , ,87
+10319884,POLK CO.,Highlands City,03/13/1993,115,Thunderstorm Wind,0, ,0,0,5000000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,88
+10319344,VOLUSIA CO.,Deland,03/13/1993,120,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,89
+10319877,SEMINOLE CO.,Sanford,03/13/1993,120,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,117, ,0,0, , ,0,0,0, ,0, , , , , , ,90
+10319345,VOLUSIA CO., ,03/13/1993,122,Thunderstorm Wind,53, ,0,0,0,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, ,Daytona Beach, , , , ,91
+10319885,POLK CO.,Lakeland,03/13/1993,125,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,92
+10319346,VOLUSIA CO.,Ormond Beach,03/13/1993,126,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,93
+10317839,DUVAL CO.,Jacksonville,03/13/1993,130,Thunderstorm Wind,64, ,0,0,0,0,FL,EST, , ,C,31, ,0,0, , ,0,0,0, ,0, , , , , , ,94
+10319347,VOLUSIA CO.,Port Orange,03/13/1993,130,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,95
+10319117,ST. JOHNS CO.,Hastings,03/13/1993,130,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,109, ,0,0, , ,0,0,0, ,0, , , , , , ,96
+10319886,POLK CO.,Winterhaven,03/13/1993,140,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,97
+10319348,VOLUSIA CO.,Holly Hill,03/13/1993,150,Thunderstorm Wind,55, ,0,0,5000,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,98
+10319646,ORANGE CO.,Christmas,03/13/1993,155,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,95, ,0,0, , ,0,0,4,S,0, , , , , , ,99
+10319887,POLK CO.,N of Fort Meade,03/13/1993,200,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,100
+10319801,SARASOTA CO., ,03/13/1993,210,Thunderstorm Wind,71, ,0,0,0,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, ,Englewood, , , , ,101
+10319349,VOLUSIA CO.,Deland,03/13/1993,210,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,127, ,0,0, , ,0,0,0, ,0, , , , , , ,102
+10319927,MONROE CO.,Dry Tortugas,03/13/1993,210,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,87, ,0,0, , ,0,0,0, ,0, , , , , , ,103
+10317627,BREVARD CO.,Titusville,03/13/1993,213,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,9, ,0,0, , ,0,0,0, ,0, , , , , , ,104
+10318115,CHARLOTTE CO.,Englewood Beach,03/13/1993,215,Thunderstorm Wind,53, ,0,0,0,0,FL,EST, , ,C,15, ,0,0, , ,0,0,0, ,0, , , , , , ,105
+10320197,LEE CO.,Boca Grande,03/13/1993,220,Thunderstorm Wind,64, ,0,0,5000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,106
+10317820,DE SOTO CO.,S Portion,03/13/1993,230,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,27, ,0,0, , ,0,0,0, ,0, , , , , , ,107
+10320198,LEE CO.,Bonita Springs,03/13/1993,245,Thunderstorm Wind,0, ,0,0,5000000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, ,to Sanibel, , , , ,108
+10320199,LEE CO.,Fort Myers,03/13/1993,302,Thunderstorm Wind,60, ,0,0,5000000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,109
+10320200,LEE CO.,Bonita Springs,03/13/1993,311,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,110
+10317690,COLLIER CO.,N Naples,03/13/1993,315,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,21, ,0,0, , ,0,0,0, ,0, , , , , , ,111
+10320096,GLADES AND HENDRY CO., ,03/13/1993,330,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,43, ,0,0, , ,0,0,0, ,0, , , , , , ,112
+10320201,LEE CO., ,03/13/1993,335,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, ,Lehigh Acres, , , , ,113
+10319928,MONROE CO.,Cudjoe Key,03/13/1993,358,Thunderstorm Wind,52, ,0,0,0,0,FL,EST, , ,C,87, ,0,0, , ,0,0,0, ,0, , , , , , ,114
+10319623,MARTIN CO.,Jensen Beach,03/13/1993,415,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,85, ,0,0, , ,0,0,0, ,0, , , , , , ,115
+10320056,INDIAN RIVER CO.,Vero Beach,03/13/1993,420,Thunderstorm Wind,72, ,0,1,500000,0,FL,EST, , ,C,61, ,0,0, , ,0,0,0, ,0, , , , , , ,116
+10319624,MARTIN CO.,Jensen Beach,03/13/1993,430,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,85, ,0,0, , ,0,0,0, ,0, , , , , , ,117
+10320093,GLADES CO.,Moorehaven,03/13/1993,430,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,43, ,0,0, , ,0,0,0, ,0, , , , , , ,118
+10317726,MIAMI-DADE CO.,Virginia Key,03/13/1993,445,Thunderstorm Wind,72, ,0,0,0,0,FL,EST, , ,C,86, ,0,0, , ,0,0,0, ,0, , , , , , ,119
+10317727,MIAMI-DADE CO.,Narrowrowanja,03/13/1993,452,Thunderstorm Wind,0, ,1,1,500000,0,FL,EST, , ,C,86, ,0,0, , ,0,0,0, ,0, , , , , , ,120
+10317728,MIAMI-DADE CO.,Homestead,03/13/1993,500,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,86, ,0,0, , ,0,0,0, ,0, , , , , , ,121
+10317987,BROWARD CO.,NE Fort Lauderdale,03/13/1993,500,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, , , , , , ,122
+10319690,PALM BEACH CO., ,03/13/1993,500,Thunderstorm Wind,64, ,0,0,5000,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, ,W.  Palm Beach, , , , ,123
+10319888,POLK CO.,Polk City,03/25/1993,1732,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,8,N,0, , , , , , ,124
+10319858,SANTA ROSA CO.,Pace,03/30/1993,1630,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,113, ,0,0, , ,0,0,0, ,0, , , , , , ,125
+10320178,OKALOOSA CO.,Ft. Walton Beach,03/30/1993,1700,Thunderstorm Wind,0, ,0,1,50000,0,FL,EST, , ,C,91, ,0,0, , ,0,0,0, ,0, , , , , , ,126
+10320179,OKALOOSA CO.,Ft.  Walton Beach,03/31/1993,530,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,91, ,0,0, , ,0,0,0, ,0, , , , , , ,127
+10319636,OKALOOSA AND WALTON CO., ,03/31/1993,600,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,91, ,0,0, , ,0,0,0, ,0, , , , , , ,128
+10320014,FRANKLIN CO.,Apalachicola,03/31/1993,1110,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,37, ,0,0, , ,0,0,0, ,0, , , , , , ,129
+10317760,DUVAL CO.,Jacksonville,03/31/1993,1437,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,31, ,0,0, , ,0,0,0, ,0, , , , , , ,130
+10318145,BRADFORD CO.,Starke,03/31/1993,1530,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,7, ,0,0, , ,0,0,0, ,0, , , , , , ,131
+10317762,DUVAL CO.,Jacksonville,03/31/1993,1530,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,31, ,0,0, , ,0,0,0, ,0, , , , , , ,132
+10320058,INDIAN RIVER CO., ,03/31/1993,1710,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,61, ,0,0, , ,0,0,0, ,0, , , , , , ,133
+10317652,CITRUS CO.,Crystal River,03/31/1993,1800,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,134
+10319717,PASCO CO.,New Port Richey,03/31/1993,1845,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,101, ,0,0, , ,0,0,0, ,0, , , , , , ,135
+10320191,HERNANDO CO.,Pine Island,03/31/1993,1855,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,53, ,0,0, , ,0,0,0, ,0, , , , , , ,136
+10317653,CITRUS CO.,Homosassa,03/31/1993,1907,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,137
+10319890,POLK CO.,Lakeland,04/01/1993,1,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,138
+10320070,MANATEE CO.,Port Manatee,04/01/1993,105,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,81, ,0,0, , ,0,0,0, ,0, , , , , , ,139
+10319984,FLZ045 - 050 - 051 - 053 - 056>058 - 060 - 062 - 063 - 067>078 CO., ,04/05/1993,100,Tornado,0,F0,0,5,5000000,0,FL,EST, , ,C,0, ,0,0, , ,.1,10,0, ,0, , , , , , ,140
+10319802,SARASOTA CO.,Manasota Beach,04/05/1993,130,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,115, ,0,0, , ,.5,200,0, ,0, , ,26.98,-82.32, , ,141
+10319803,SARASOTA CO.,Venice,04/05/1993,132,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,115, ,0,0, , ,.5,200,0, ,0, , ,27.10,-82.45, , ,142
+10319822,SARASOTA CO.,North Port,04/05/1993,135,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,115, ,0,0, , ,.5,100,0, ,0, , ,27.00,-82.07, , ,143
+10318116,CHARLOTTE CO.,Port Charlotte,04/05/1993,140,Tornado,0,F2,0,1,5000000,0,FL,EST, , ,C,15, ,0,0, , ,2,100,0, ,0, , ,26.97,-82.10, , ,144
+10320203,LEE CO.,Fort Myers,04/05/1993,145,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,145
+10320202,LEE CO.,Cape Coral,04/05/1993,145,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,146
+10320204,LEE CO.,Fort Myers Beach,04/05/1993,145,Thunderstorm Wind,51, ,0,1,5000000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,147
+10317691,COLLIER CO.,North Naples,04/05/1993,200,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,21, ,0,0, , ,.1,10,0, ,0, , , , , , ,148
+10319950,MONROE CO.,Key West,04/05/1993,234,Thunderstorm Wind,50, ,0,0,0,0,FL,EST, , ,C,87, ,0,0, , ,0,0,0, ,0, , , , , , ,149
+10320145,HARDEE CO.,Wauchula,04/05/1993,300,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,49, ,0,0, , ,.2,30,0, ,0, , , , , , ,150
+10319598,HIGHLANDS CO.,Avon Park,04/05/1993,315,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,55, ,0,0, , ,.2,50,0, ,0, , ,27.60,-81.52, , ,151
+10320150,HENDRY CO., ,04/05/1993,330,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,51, ,0,0, , ,0,0,0, ,0, , , , , , ,152
+10317692,COLLIER CO.,Everglades City,04/05/1993,330,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,21, ,0,0, , ,0,0,0, ,0, , , , , , ,153
+10319637,OKEECHOBEE CO.,Bassinger,04/05/1993,350,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,93, ,0,0, , ,0,0,0, ,0, , , , , , ,154
+10319683,OKEECHOBEE CO.,Okeechobee City,04/05/1993,405,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,93, ,0,0, , ,.1,30,0, ,0, , , , , , ,155
+10319625,MARTIN CO.,Stuart,04/05/1993,415,Tornado,0,F0,0,0,50000,0,FL,EST, , ,C,85, ,0,0, , ,.2,30,0, ,0, , ,27.20,-80.25, , ,156
+10319691,PALM BEACH CO.,Palm Beach,04/05/1993,425,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,99, ,0,0, , ,0,0,0, ,0, , , , , , ,157
+10317729,MIAMI-DADE CO.,Country Walk,04/05/1993,430,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,86, ,0,0, , ,0,0,0, ,0, , , , , , ,158
+10317988,BROWARD CO., ,04/05/1993,430,Thunderstorm Wind,0, ,0,1,50000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, ,Fort Lauderdale, , , , ,159
+10318743,BROWARD CO.,Lake Worth,04/05/1993,430,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, , , , , , ,160
+10318742,BROWARD CO.,Atlantis,04/05/1993,430,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, ,Plantation, , , , ,161
+10318744,BROWARD CO.,Fort Lauderdale,04/05/1993,430,Tornado,0,F1,0,2,500000,0,FL,EST, , ,C,11, ,0,0, , ,3,50,0, ,0, , ,26.13,-80.13,26.17,-80.10,162
+10320180,OKALOOSA CO.,Fort Walton Beach,04/08/1993,2230,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,91, ,0,0, , ,0,0,0, ,0, , , , , , ,163
+10320205,LEE CO.,Fort Myers Beach,04/09/1993,1124,Thunderstorm Wind,52, ,0,0,0,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,164
+10320015,FRANKLIN CO.,Dog Island,04/15/1993,1050,Thunderstorm Wind,54, ,0,0,0,0,FL,EST, , ,C,37, ,0,0, , ,0,0,0, ,0, ,East Point, , , , ,165
+10319750,PINELLAS CO.,Tarpon Springs,04/15/1993,1555,Thunderstorm Wind,60, ,0,0,0,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,166
+10319508,WASHINGTON CO.,Wausau,04/26/1993,630,Tornado,0,F1,0,0,500000,0,FL,EST, , ,C,133, ,0,0, , ,5,75,0, ,0, , ,30.63,-85.58,30.70,-85.52,167
+10320206,LEE CO.,Bonita Springs,05/28/1993,1400,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,71, ,0,0, , ,0,0,0, ,0, , , , , , ,168
+10319823,SARASOTA CO.,North Venice,05/28/1993,1510,Thunderstorm Wind,69, ,0,0,50000,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, , , , , , ,169
+10319751,PINELLAS CO.,Largo,05/28/1993,1700,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,170
+10317693,COLLIER CO.,Immokalee,05/29/1993,1536,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,21, ,0,0, , ,0,0,0, ,0, , , , , , ,171
+10318745,BROWARD CO.,Fort Lauderdale,08/01/1993,1635,Thunderstorm Wind,60, ,0,0,500000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, , , , , , ,172
+10317694,COLLIER CO.,Naples,08/03/1993,1455,Thunderstorm Wind,70, ,0,0,0,0,FL,EST, , ,C,21, ,0,0, , ,0,0,0, ,0, , , , , , ,173
+10320192,HERNANDO CO.,Brooksville,08/03/1993,1520,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,53, ,0,0, , ,0,0,0, ,0, , , , , , ,174
+10320146,HARDEE CO.,Wauchula,08/03/1993,1610,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,49, ,0,0, , ,0,0,0, ,0, , , , , , ,175
+10319913,HILLSBOROUGH CO.,Plant City,08/03/1993,1745,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,176
+10320158,LAKE CO.,Clermont,08/03/1993,1815,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,69, ,0,0, , ,0,0,0, ,0, , , , , , ,177
+10320160,LAKE CO.,Eustis,08/03/1993,1839,Thunderstorm Wind,50, ,0,0,50000,0,FL,EST, , ,C,69, ,0,0, , ,0,0,0, ,0, , , , , , ,178
+10317763,DUVAL CO.,Jacksonville,08/04/1993,1650,Thunderstorm Wind,53, ,0,0,500,0,FL,EST, , ,C,31, ,0,0, , ,0,0,0, ,0, , , , , , ,179
+10319647,ORANGE CO.,Orlando,08/04/1993,2013,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, ,Maitland, , , , ,180
+10319720,PASCO CO.,Quail Hollow,08/05/1993,1730,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,101, ,0,0, , ,0,0,0, ,0, , , , , , ,181
+10319721,PASCO CO.,Wesley Chapel,08/05/1993,1821,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,101, ,0,0, , ,0,0,0, ,0, , , , , , ,182
+10320208,LEE CO.,Cape Coral,08/09/1993,1425,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,71, ,0,0, , ,.1,10,0, ,0, , ,26.60,-81.97, , ,183
+10320209,LEE CO.,Cape Coral,08/09/1993,1433,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,71, ,0,0, , ,.1,10,0, ,0, , ,26.60,-81.97, , ,184
+10317654,CITRUS CO.,Crystal River,08/09/1993,1700,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,17, ,0,0, , ,.1,10,0, ,0, , , , , , ,185
+10317655,CITRUS CO.,Crystal River,08/09/1993,1715,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,186
+10317656,CITRUS CO.,Crystal River,08/09/1993,1800,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,17, ,0,0, , ,0,0,0, ,0, , , , , , ,187
+10319752,PINELLAS CO.,St. Petersburg,08/09/1993,1808,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,103, ,0,0, , ,.1,10,0, ,0, , , , , , ,188
+10319753,PINELLAS CO.,St. Petersburg,08/09/1993,1835,Tornado,0,F1,0,0,5000,0,FL,EST, , ,C,103, ,0,0, , ,.4,50,0, ,0, , ,27.77,-82.67, , ,189
+10319826,SARASOTA CO.,Sarasota,08/10/1993,1518,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,115, ,0,0, , ,.1,10,0, ,0, , ,27.33,-82.53, , ,190
+10320073,MANATEE CO.,Longboat Key,08/10/1993,1531,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,81, ,0,0, , ,.1,10,0, ,0, , ,27.43,-82.68, , ,191
+10319756,PINELLAS CO.,St. Petersburg,08/10/1993,1630,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,192
+10317630,BREVARD CO.,Melbourne,08/13/1993,1930,Thunderstorm Wind,0, ,1,0,0,0,FL,EST, , ,C,9, ,0,0, , ,0,0,0, ,0, , , , , , ,193
+10320051,FRANKLIN CO.,St. Vincent Island,08/14/1993,1030,Thunderstorm Wind,50, ,0,0,0,0,FL,EST, , ,C,37, ,0,0, , ,0,0,0, ,0, , , , , , ,194
+10317765,DUVAL CO.,Jacksonville,08/18/1993,1528,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,31, ,0,0, , ,.1,10,10,S,0, , ,30.18,-81.67, , ,195
+10317675,CLAY CO.,Orange Park,08/18/1993,1630,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,19, ,0,0, , ,0,0,0, ,0, , , , , , ,196
+10320052,FRANKLIN CO.,Carrabelle,08/19/1993,1350,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,37, ,0,0, , ,0,0,0, ,0, , , , , , ,197
+10317789,FLAGLER CO.,Beverly Beach,08/19/1993,1500,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,35, ,0,0, , ,0,0,0, ,0, , , , , , ,198
+10319119,ST. JOHNS CO.,St. Augustine,08/19/1993,1510,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,109, ,0,0, , ,0,0,0, ,0, , , , , , ,199
+10319648,ORANGE CO.,Winter Park,08/22/1993,2000,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, , , , , , ,200
+10317730,MIAMI-DADE CO.,Miami,08/23/1993,1410,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,86, ,0,0, , ,0,0,11,SW,0, , , , , , ,201
+10317631,BREVARD CO.,Titusville,08/25/1993,1020,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,9, ,0,0, , ,.1,10,0, ,0, , ,28.60,-80.80, , ,202
+10319692,PALM BEACH CO.,Pahokee,08/26/1993,1330,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,99, ,0,0, , ,.1,10,0, ,0, , ,26.82,-80.67, , ,203
+10319859,SANTA ROSA CO.,Jay,09/02/1993,900,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,113, ,0,0, , ,0,0,0, ,0, , , , , , ,204
+10320193,HERNANDO CO.,Spring Hill,09/05/1993,1450,Tornado,0,F0,0,0,5000,0,FL,EST, , ,C,53, ,0,0, , ,.2,40,0, ,0, , ,28.55,-82.45, , ,205
+10319917,HILLSBOROUGH CO.,Tampa,09/05/1993,1709,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,206
+10319918,HILLSBOROUGH CO.,Tampa,09/05/1993,1710,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,207
+10319929,HILLSBOROUGH CO.,N Tampa,09/05/1993,1800,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,208
+10319233,SUMTER CO.,Croom Forest,09/07/1993,1700,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,119, ,0,0, , ,0,0,0, ,0, , , , , , ,209
+10317767,DUVAL CO., ,09/07/1993,1725,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,31, ,0,0, , ,0,0,0, ,0, ,Jacksonville, , , , ,210
+10317842,ESCAMBIA CO.,Brownsville,09/10/1993,1745,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,33, ,0,0, , ,0,0,0, ,0, , , , , , ,211
+10317709,COLUMBIA CO.,Three Rivers  Estates,09/10/1993,1745,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,23, ,0,0, , ,0,0,0, ,0, , , , , , ,212
+10319860,SANTA ROSA CO.,Milton Pace,09/10/1993,1815,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,113, ,0,0, , ,0,0,0, ,0, , , , , , ,213
+10319893,POLK CO.,Mulberry,09/11/1993,1400,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,105, ,0,0, , ,0,0,0, ,0, , , , , , ,214
+10319879,SEMINOLE CO.,Oviedo,09/11/1993,1510,Thunderstorm Wind,0, ,0,1,50000,0,FL,EST, , ,C,117, ,0,0, , ,0,0,0, ,0, , , , , , ,215
+10319649,ORANGE CO.,Bithlo,09/11/1993,1545,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,95, ,0,0, , ,0,0,0, ,0, , , , , , ,216
+10320151,HENDRY CO.,Clewiston,09/12/1993,1708,Tornado,0,F1,0,3,500000,0,FL,EST, , ,C,51, ,0,0, , ,.4,50,13,W,0, , , , , , ,217
+10317635,CHARLOTTE CO.,Countywide,09/13/1993,1545,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,15, ,0,0, , ,0,0,0, ,0, , , , , , ,218
+10319931,HILLSBOROUGH CO.,Dover,09/15/1993,1655,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,219
+10317676,CLAY CO.,Orange Park,09/21/1993,1750,Thunderstorm Wind,9, ,0,0,0,0,FL,EST, , ,C,19, ,0,0, , ,0,0,0, ,0, , , , , , ,220
+10318169,BROWARD CO., ,10/02/1993,915,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,11, ,0,0, , ,0,0,0, ,0, , , , , , ,221
+10317633,BREVARD CO., ,10/09/1993,1814,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,9, ,0,0, , ,0,0,0, ,0, , , , , , ,222
+10319829,SARASOTA CO., ,10/14/1993,800,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,115, ,0,0, , ,0,0,0, ,0, , , , , , ,223
+10317731,MIAMI-DADE CO.,Miami,10/16/1993,1720,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,86, ,0,0, , ,.1,10,16,WSW,0, , ,25.70,-80.55, , ,224
+10319449,WAKULLA CO.,Panacea,10/29/1993,0,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,129, ,0,0, , ,.1,10,3,S,0, , , , , , ,225
+10319861,SANTA ROSA CO., ,10/30/1993,100,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,113, ,0,0, , ,0,0,0, ,0, , , , , , ,226
+10319502,WALTON CO., ,10/30/1993,120,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,131, ,0,0, , ,0,0,0, ,0, , , , , , ,227
+10320022,HOLMES CO., ,10/30/1993,230,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,59, ,0,0, , ,0,0,0, ,0, , , , , , ,228
+10320098,JACKSON CO., ,10/30/1993,232,Thunderstorm Wind,2, ,0,0,0,0,FL,EST, , ,C,63, ,0,0, , ,0,0,0, ,0, , , , , , ,229
+10319996,LEVY CO., ,10/30/1993,251,Tornado,0,F1,0,1,500000,0,FL,EST, , ,C,75, ,0,0, , ,1,60,0, ,0, , ,29.13,-82.55, , ,230
+10318136,BAY CO., ,10/30/1993,345,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,5, ,0,0, , ,0,0,0, ,0, , , , , , ,231
+10320172,MARION CO., ,10/30/1993,345,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, , , , , , ,232
+10320173,MARION CO., ,10/30/1993,400,Thunderstorm Wind,0, ,0,2,0,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, , , , , , ,233
+10319997,LEVY CO., ,10/30/1993,407,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,75, ,0,0, , ,0,0,0, ,0, , , , , , ,234
+10319944,LEON CO., ,10/30/1993,520,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,73, ,0,0, , ,0,0,0, ,0, , , , , , ,235
+10320031,MADISON CO., ,10/30/1993,730,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,79, ,0,0, , ,0,0,0, ,0, , , , , , ,236
+10319998,LEVY CO., ,10/30/1993,920,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,75, ,0,0, , ,.1,10,0, ,0, , ,29.50,-82.88, , ,237
+10318065,ALACHUA CO., ,10/30/1993,939,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,1, ,0,0, , ,.1,10,0, ,0, , ,29.53,-82.53, , ,238
+10318066,ALACHUA CO., ,10/30/1993,950,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,1, ,0,0, , ,.1,10,0, ,0, , ,29.65,-82.62, , ,239
+10319999,LEVY CO., ,10/30/1993,955,Tornado,0,F1,0,0,5000000,0,FL,EST, , ,C,75, ,0,0, , ,1,60,0, ,0, , ,29.45,-82.65, , ,240
+10318067,ALACHUA CO., ,10/30/1993,1015,Thunderstorm Wind,0, ,0,0,500000,0,FL,EST, , ,C,1, ,0,0, , ,0,0,0, ,0, , , , , , ,241
+10320000,LEVY CO., ,10/30/1993,1016,Tornado,0,F0,0,0,0,0,FL,EST, , ,C,75, ,0,0, , ,.1,10,0, ,0, , ,29.10,-82.63, , ,242
+10319608,LEE CO., ,10/30/1993,1030,Tornado,0,F1,0,1,5000000,0,FL,EST, , ,C,71, ,0,0, , ,1.2,70,0, ,0, , ,26.33,-81.77, , ,243
+10319815,PUTNAM CO., ,10/30/1993,1045,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,107, ,0,0, , ,0,0,0, ,0, , , , , , ,244
+10320174,MARION CO., ,10/30/1993,1055,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,83, ,0,0, , ,0,0,0, ,0, , , , , , ,245
+10319609,LEE CO., ,10/30/1993,1105,Tornado,0,F0,0,0,500000,0,FL,EST, , ,C,71, ,0,0, , ,.1,10,0, ,0, , , , , , ,246
+10320001,LEVY CO., ,10/30/1993,1107,Thunderstorm Wind,0, ,0,0,0,0,FL,EST, , ,C,75, ,0,0, , ,0,0,0, ,0, , , , , , ,247
+10317695,CITRUS CO., ,10/30/1993,1108,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,17, ,0,0, , ,.1,10,0, ,0, , , , , , ,248
+10317657,CITRUS CO., ,10/30/1993,1119,Tornado,0,F0,0,0,500,0,FL,EST, , ,C,17, ,0,0, , ,.1,10,0, ,0, , ,28.78,-82.62, , ,249
+10319120,ST. JOHNS CO., ,10/30/1993,1150,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,109, ,0,0, , ,0,0,0, ,0, , , , , , ,250
+10319932,HILLSBOROUGH CO., ,10/30/1993,1542,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,57, ,0,0, , ,0,0,0, ,0, , , , , , ,251
+10320152,HENDRY CO., ,10/31/1993,0,Thunderstorm Wind,0, ,0,0,50000,0,FL,EST, , ,C,51, ,0,0, , ,0,0,0, ,0, , , , , , ,252
+10320023,HOLMES CO.,All,12/20/1993,330,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,59, ,0,0, , ,0,0,0, ,0, , , , , , ,253
+10318137,BAY CO.,All,12/20/1993,445,Thunderstorm Wind,0, ,0,0,500,0,FL,EST, , ,C,5, ,0,0, , ,0,0,0, ,0, , , , , , ,254
+10319759,PINELLAS CO.,South Largo,12/23/1993,445,Thunderstorm Wind,0, ,0,0,5000,0,FL,EST, , ,C,103, ,0,0, , ,0,0,0, ,0, , , , , , ,255
